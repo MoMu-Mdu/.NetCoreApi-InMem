@@ -24,3 +24,4 @@ C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApplication1
 C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
 C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
 C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache

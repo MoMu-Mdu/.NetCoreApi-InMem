@@ -12,10 +12,33 @@ namespace WebAPI2.Test
 {
     public class RestAPIProviderTest
     {
-        [Fact]
-        public void GetTest()
+        private readonly RestAPIProvder _restAPIProvder;
+        public RestAPIProviderTest()
         {
+            _restAPIProvder = new RestAPIProvder();
+        }
 
+        [Theory]
+        [InlineData("")]
+        [InlineData("InvalidResource")]
+        public void RestAPIProvider_Get_Returns_Null_ForEmptyResource(string resource)
+        {
+            // Act
+            var actionResult = _restAPIProvder.Get<List<Person>>(resource);
+
+            // Assert
+            Assert.Null(actionResult);
+        }
+
+        [Theory]
+        [InlineData("api/Person")]
+        public void RestAPIProvider_Get_Returns_ValidData(string resource)
+        {
+            // Act
+            var actionResult = _restAPIProvder.Get<List<Person>>(resource);
+
+            // Assert
+            Assert.NotNull(actionResult);
         }
     }
 }

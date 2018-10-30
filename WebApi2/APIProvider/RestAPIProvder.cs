@@ -11,6 +11,7 @@ namespace WebApi2.APIProvider
         public RestAPIProvder()
         {
             _client = new HttpClient();
+            // Need to come from config/db
             _client.BaseAddress = new Uri("https://localhost:44389/");
         }
 
