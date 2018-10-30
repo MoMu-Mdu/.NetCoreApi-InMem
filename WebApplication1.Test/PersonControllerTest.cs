@@ -1,7 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Moq;
-using System;
 using System.Collections.Generic;
 using WebApplication1.Controllers;
 using WebApplication1.Data;
@@ -13,16 +11,13 @@ namespace WebApplication1.Test
     public class PersonControllerTest
     {
         private PersonController _personController;
-        public PersonControllerTest()
-        {
-
-        }
         [Fact]
         public void Person_GetAll_ReturnsOK()
         {
             // Arrange
             var mockRepo = new Mock<IPersonRepository>();
             _personController = new PersonController(mockRepo.Object);
+
             // Act
             var people = _personController.GetAllPerson();
 
