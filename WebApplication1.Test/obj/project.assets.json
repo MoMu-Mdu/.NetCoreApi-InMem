@@ -5808,7 +5808,6 @@
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
           "Microsoft.NETCore.App": "2.1.0",
-          "Moq": "4.10.0",
           "microsoft.entityframeworkcore.inmemory": "2.1.4"
         },
         "compile": {
@@ -14912,6 +14911,7 @@
       "Microsoft.AspNetCore.All >= 2.1.2",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
+      "Moq >= 4.10.0",
       "WebApplication1 >= 1.0.0",
       "xunit >= 2.3.1",
       "xunit.runner.visualstudio >= 2.3.1"
@@ -14924,11 +14924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mohamed Mustafa\\source\\repos\\WebApplication1\\WebApplication1.Test\\WebApplication1.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Mohamed Mustafa\\source\\repos\\MoMu-Mdu\\.NetCoreApi-InMem\\WebApplication1.Test\\WebApplication1.Test.csproj",
       "projectName": "WebApplication1.Test",
-      "projectPath": "C:\\Users\\Mohamed Mustafa\\source\\repos\\WebApplication1\\WebApplication1.Test\\WebApplication1.Test.csproj",
+      "projectPath": "C:\\Users\\Mohamed Mustafa\\source\\repos\\MoMu-Mdu\\.NetCoreApi-InMem\\WebApplication1.Test\\WebApplication1.Test.csproj",
       "packagesPath": "C:\\Users\\Mohamed Mustafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mohamed Mustafa\\source\\repos\\WebApplication1\\WebApplication1.Test\\obj\\",
+      "outputPath": "C:\\Users\\Mohamed Mustafa\\source\\repos\\MoMu-Mdu\\.NetCoreApi-InMem\\WebApplication1.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14947,8 +14947,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Mohamed Mustafa\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
-              "projectPath": "C:\\Users\\Mohamed Mustafa\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj"
+            "C:\\Users\\Mohamed Mustafa\\source\\repos\\MoMu-Mdu\\.NetCoreApi-InMem\\WebApplication1\\WebApplication1.csproj": {
+              "projectPath": "C:\\Users\\Mohamed Mustafa\\source\\repos\\MoMu-Mdu\\.NetCoreApi-InMem\\WebApplication1\\WebApplication1.csproj"
             }
           }
         }
@@ -14974,6 +14974,10 @@
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
+          },
+          "Moq": {
+            "target": "Package",
+            "version": "[4.10.0, )"
           },
           "xunit": {
             "target": "Package",

@@ -1,0 +1,14 @@
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\bin\Debug\netcoreapp2.1\WebApi2.deps.json
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\bin\Debug\netcoreapp2.1\WebApi2.runtimeconfig.json
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\bin\Debug\netcoreapp2.1\WebApi2.runtimeconfig.dev.json
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\bin\Debug\netcoreapp2.1\WebApi2.dll
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\bin\Debug\netcoreapp2.1\WebApi2.pdb
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\obj\Debug\netcoreapp2.1\WebApi2.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\obj\Debug\netcoreapp2.1\WebApi2.RazorAssemblyInfo.cache
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\obj\Debug\netcoreapp2.1\WebApi2.RazorAssemblyInfo.cs
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\obj\Debug\netcoreapp2.1\WebApi2.AssemblyInfoInputs.cache
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\obj\Debug\netcoreapp2.1\WebApi2.AssemblyInfo.cs
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\obj\Debug\netcoreapp2.1\WebApi2.RazorTargetAssemblyInfo.cache
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\obj\Debug\netcoreapp2.1\WebApi2.dll
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\obj\Debug\netcoreapp2.1\WebApi2.pdb
+C:\Users\Mohamed Mustafa\source\repos\MoMu-Mdu\.NetCoreApi-InMem\WebApi2\obj\Debug\netcoreapp2.1\WebApi2.csprojAssemblyReference.cache
